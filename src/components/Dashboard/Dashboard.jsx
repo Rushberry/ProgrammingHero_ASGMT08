@@ -83,7 +83,7 @@ const Dashboard = () => {
             {/* Cart & Wishlist Container */}
             <div className={`${cartView ? 'flex' : 'hidden'} justify-center flex-col gap-6 items-start w-[1040px] mb-[100px]`}>
                 {
-                    cart.length ? sortCart.map(product => <CartItem key={product.product_id} product={product}></CartItem>) : <h1 className="font-bold text-[40px] text-[#9538E2] w-[894px] col-span-3 text-center">No gadget added to cart.</h1>
+                    cart.length ? sortCart.map((product, idx) => <CartItem key={idx} product={product}></CartItem>) : <h1 className="font-bold text-[40px] text-[#9538E2] w-[894px] col-span-3 text-center">No gadget added to cart.</h1>
                 }
             </div>
             <div className={`${wishlistView ? 'flex' : 'hidden'} justify-center flex-col gap-6 items-start w-[1040px] mb-[100px]`}>

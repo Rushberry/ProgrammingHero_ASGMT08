@@ -1,0 +1,28 @@
+nav a.active{
+    color: #9538E2;
+    background: #ffff;
+    border-radius: 50px;
+    border: #9538E2 solid 1px;
+}
+
+.category-active{
+    color: #fff;
+    background: #9538E2;
+    font-weight: 800;
+}
+
+:root:has(:is(.modal-open, .modal:target, .modal-toggle:checked + .modal, .modal[open])) {
+    overflow: hidden;
+    scrollbar-gutter: unset;
+}
+
+input[type="number"]::-webkit-inner-spin-button{
+    display: none;
+}
+input[type="number"]::-webkit-outer-spin-button{
+    display: none;
+}
+
+textarea::-webkit-resizer{
+    display: none;
+}

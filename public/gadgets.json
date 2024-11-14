@@ -1,0 +1,174 @@
+[
+    {
+      "product_id": "P001",
+      "product_title": "Samsung Galaxy Z Fold 5",
+      "product_image": "https://i.ibb.co.com/31g58fs/P001.png",
+      "category": "Phones",
+      "price": 1799,
+      "description": "Unfold a new era of innovation with the Samsung Galaxy Z Fold 5.",
+      "specification": [
+          "7.6-inch QXGA+ Dynamic AMOLED 2X main display",
+          "Snapdragon 8 Gen 2 processor",
+          "Triple-camera system (50MP Main, 12MP Ultra Wide, 10MP Telephoto)",
+          "Foldable design for multitasking",
+          "Up to 1TB storage"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "P002",
+      "product_title": "Samsung Galaxy S23 Ultra",
+      "product_image": "https://i.ibb.co/58L12Tq/P002.png",
+      "category": "Phones",
+      "price": 1199,
+      "description": "Discover a world of possibilities with Galaxy S23 Ultra.",
+      "specification": [
+        "6.8-inch Dynamic AMOLED 2X display",
+        "Snapdragon 8 Gen 2 processor",
+        "Quad-camera setup (200MP Main, 12MP Ultrawide, 10MP Periscope)",
+        "S-Pen support",
+        "Up to 1TB storage"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "P003",
+      "product_title": "Google Pixel 8 Pro",
+      "product_image": "https://i.ibb.co/4WzMhhg/P003.png",
+      "category": "Phones",
+      "price": 999,
+      "description": "Redefine photography with Google Pixel 8 Pro.",
+      "specification": [
+        "6.7-inch LTPO OLED display",
+        "Google Tensor G3 chip",
+        "Triple-camera system (50MP Main, 48MP Ultrawide, 12MP Telephoto)",
+        "Magic Eraser",
+        "Up to 512GB storage"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": "P004",
+      "product_title": "Apple iPad Pro 12.9",
+      "product_image": "https://i.ibb.co/X75ZpmX/P004.png",
+      "category": "Tablets",
+      "price": 1099,
+      "description": "Power meets portability with the iPad Pro 12.9.",
+      "specification": [
+        "12.9-inch Liquid Retina XDR display",
+        "M2 chip",
+        "Dual-camera system (12MP Wide, 10MP Ultrawide)",
+        "Face ID",
+        "Up to 2TB storage"
+      ],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": "P005",
+      "product_title": "Samsung Galaxy Tab S9 Ultra",
+      "product_image": "https://i.ibb.co/HPqKgYT/P005.png",
+      "category": "Tablets",
+      "price": 999,
+      "description": "A tablet that redefines productivity, Samsung Galaxy Tab S9 Ultra.",
+      "specification": [
+        "14.6-inch Super AMOLED display",
+        "Snapdragon 8 Gen 2 processor",
+        "Dual-camera system (13MP Main, 6MP Ultrawide)",
+        "S-Pen included",
+        "Up to 1TB storage"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "P006",
+      "product_title": "Sony WH-1000XM5",
+      "product_image": "https://i.ibb.co/bQ9BGbn/P006.png",
+      "category": "Accessories",
+      "price": 399,
+      "description": "Unmatched sound quality with Sony WH-1000XM5 headphones.",
+      "specification": [
+        "Industry-leading noise cancellation",
+        "30 hours of battery life",
+        "Multipoint connection",
+        "Foldable design",
+        "Adaptive Sound Control"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "P007",
+      "product_title": "Apple AirPods Pro (2nd Gen)",
+      "product_image": "https://i.ibb.co/PxyRPGF/P007.png",
+      "category": "Accessories",
+      "price": 249,
+      "description": "Experience next-level audio with AirPods Pro 2nd Gen.",
+      "specification": [
+        "Active Noise Cancellation",
+        "Spatial Audio",
+        "Up to 6 hours of listening time",
+        "MagSafe charging case",
+        "IPX4 water resistance"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "P008",
+      "product_title": "Dell XPS 13 Laptop",
+      "product_image": "https://i.ibb.co/ZXQN7kg/P008.png",
+      "category": "Laptops",
+      "price": 1099,
+      "description": "Compact power with the Dell XPS 13 Laptop.",
+      "specification": [
+        "13.4-inch FHD+ InfinityEdge display",
+        "12th Gen Intel Core i7",
+        "Intel Iris Xe Graphics",
+        "16GB RAM, 512GB SSD",
+        "Windows 11"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "P009",
+      "product_title": "ASUS ROG Zephyrus G14",
+      "product_image": "https://i.ibb.co.com/JktrgFY/P009.png",
+      "category": "Laptops",
+      "price": 1499,
+      "description": "Compact, powerful, and portable – the ASUS ROG Zephyrus G14 is built for gamers and creators.",
+      "specification": [
+          "14-inch QHD display with 120Hz refresh rate",
+          "AMD Ryzen 9 6900HS processor",
+          "NVIDIA GeForce RTX 3060 graphics",
+          "16GB RAM, 1TB SSD",
+          "Windows 11 Home"
+      ],
+      "availability": true,
+      "rating": 4.8
+    }
+    ,
+    {
+      "product_id": "P010",
+      "product_title": "Microsoft Surface Pro 9",
+      "product_image": "https://i.ibb.co/kH37F9P/P010.png",
+      "category": "Tablets",
+      "price": 899,
+      "description": "A tablet that can replace your laptop, Microsoft Surface Pro 9.",
+      "specification": [
+        "13-inch PixelSense Flow display",
+        "Intel Core i5/i7",
+        "8MP rear camera, 5MP front camera",
+        "Windows 11",
+        "Up to 512GB storage"
+      ],
+      "availability": true,
+      "rating": 4.6
+    }
+]
+  

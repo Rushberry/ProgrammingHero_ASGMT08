@@ -4,7 +4,7 @@
 _I have used Context API for handling and managing data. Documentation: [React Context API](https://react.dev/reference/react/createContext)._
 ### Access & Resources
 - [`Live Site`](https://b10a8-rushberry.surge.sh/)
-- [`Github Private Repo`](https://github.com/programming-hero-web-course2/b10a8-gadget-heaven-Rushberry)
+- [`Github Repo`](https://github.com/Rushberry/ProgrammingHero_ASGMT08)
 - [`Requirement Document`](Prototype/Instructions.pdf)
 - [`Figma Prototype`](https://pixso.net/app/editor/guJAq2vJMKw0EhH7K9LDzQ?icon_type=1&page-id=0%3A1&editMode=coder](https://www.figma.com/design/qr7hizhQyfmitEimBC6blK/Assignment-8?node-id=0-1&node-type=canvas&t=7Sr6v8i3wIN015u6-0))
 - [`Pixso Prototype`](https://pixso.net/app/editor/Qgrlb90lxQ4mcO4UG8tgrA?icon_type=1&page-id=0%3A1)
